@@ -15,3 +15,8 @@ The Google Drive folder contains the following files:
 3. **app.py** — Streamlit app for image classification.
 4. **project_presentation.pdf** — Presentation summarizing the project.
 
+## Google Drive Link
+Access all project files here: [Google Drive Folder](https://drive.google.com/drive/folders/1Y6MNwOZ5W0s_cJgS3LA-ASCMIHS6DovV?usp=drive_link)
+
+## Model Comparison
+The project includes a detailed comparison between the custom CNN and VGG16 models, evaluating them based on accuracy, loss, and other relevant metrics.
