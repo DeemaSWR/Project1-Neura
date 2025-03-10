@@ -1,6 +1,4 @@
-# Project1-Neura
-
-Image Classification Project
+#Image Classification Project
 
 Project Overview
 
